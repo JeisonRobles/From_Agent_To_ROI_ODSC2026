@@ -49,6 +49,7 @@ clf.ipynb
 *.png
 !images/cover.png
 *.csv
+*.jsonl
 
 # Node modules
 node_modules/
@@ -71,3 +72,6 @@ node_modules/
 **/chromadb/
 **/chroma.sqlite3
 **/image_chromadb/
+
+# Dataset directories
+reasoning_llms/computer_use/uipad_dataset/
