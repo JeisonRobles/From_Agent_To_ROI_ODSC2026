@@ -536,6 +536,10 @@ jupyter notebook using_computer_use.ipynb
 
 **Code Location:** [`finetuning/app_review_clf/`](finetuning/app_review_clf/) and root [`clf.ipynb`](clf.ipynb)
 
+**Colab Notebooks:**
+- Fine-tuning BERT for app reviews: [Google Colab](https://colab.research.google.com/drive/1z2sMZ_A05_VGYqpHBgabvcV0V4INYhQ4#scrollTo=QQAdv6RBNees)
+- App review calibration: [Google Colab](https://colab.research.google.com/drive/1460HIj1mFmPA1iOoVVh5uapBkrLZyopI#scrollTo=cb0i0fjeiIzv)
+
 **Setup:**
 ```bash
 # For fine-tuning approach
@@ -570,6 +574,9 @@ jupyter notebook clf.ipynb
 
 **Code Location:** [`policy_bot/`](policy_bot/) and [`finetuning/domain_adaptation/`](finetuning/domain_adaptation/)
 
+**Colab Notebook:**
+- Fine-tuning Qwen for domain adaptation: [Google Colab](https://colab.research.google.com/drive/1eZzTJ5dNtbeh2RZS-kV7DD7jDHFqS4qG#scrollTo=yqxqAZ7KJ4oL)
+
 **Setup:**
 ```bash
 cd policy_bot
@@ -596,6 +603,9 @@ jupyter notebook rubric_grade_domain_adapt.ipynb
 **Description:** Speed up inference by having a small model draft for a large model. Same exact outputs, 2-3x faster, sometimes.
 
 **Key Concepts:** Speculative decoding, inference acceleration, draft models, performance optimization
+
+**Colab Notebook:**
+- Qwen speculative decoding: [Google Colab](https://colab.research.google.com/drive/1P03P_hYP6H_zBmqlhvyOgTVvO737rBls)
 
 **Code Location:** *Implementation pending*
 
@@ -659,6 +669,9 @@ python twilio_app.py
 **Description:** Train embeddings that work at multiple dimensions. Dynamically trade speed for accuracy based on each query's needs.
 
 **Key Concepts:** Matryoshka embeddings, multi-dimensional embeddings, dynamic dimension selection, speed/accuracy trade-offs
+
+**Colab Notebook:**
+- Matryoshka embeddings: [Google Colab](https://colab.research.google.com/drive/1N9ROhCmrOTnXMkpIc9SukVeSwFr5Xxkx#scrollTo=UbG2yyJxv_JW)
 
 **Code Location:** [`finetuning/embeddings/`](finetuning/embeddings/)
 
