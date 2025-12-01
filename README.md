@@ -4,7 +4,7 @@
 
 # Applied AI Book - Code Repository
 
-**GitHub Repository:** [https://github.com/sinanuozdemir/building-agentic-ai](https://github.com/sinanuozdemir/building-agentic-ai)
+**Buy the Book on Amazon:** [https://a.co/d/eaTeURV](https://a.co/d/eaTeURV)
 
 This repository contains code examples, experiments, and implementations for the **Applied AI** book by Sinan Ozdemir. The book offers a practical, durable foundation for understanding how modern AI systems are built, why they behave the way they do, and how to push them to their limits.
 
