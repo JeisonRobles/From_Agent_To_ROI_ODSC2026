@@ -10,7 +10,7 @@ This repository contains code examples, experiments, and implementations for the
 
 ## About the Book
 
-**Applied AI** isn't a static textbook—it's a practical guide for builders. Whether you're a developer deploying your first model, a data scientist making sense of embeddings and agents, or a founder exploring how AI workflows can reshape your product, this repository provides the code and examples to accompany your learning journey.
+**Applied AI** is a practical guide for builders. If you're a developer deploying your first model, a data scientist making sense of embeddings and agents, or a founder exploring how AI workflows can reshape your product, this repository provides the code and examples to accompany your learning journey.
 
 The book is organized in three acts:
 - **Act I: Foundations** — LLMs, embeddings, retrieval, and workflows for reliable, cost-effective, scalable systems
