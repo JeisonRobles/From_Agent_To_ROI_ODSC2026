@@ -606,16 +606,6 @@ jupyter notebook rubric_grade_domain_adapt.ipynb
 **Colab Notebook:**
 - Qwen speculative decoding: [Google Colab](https://colab.research.google.com/drive/1P03P_hYP6H_zBmqlhvyOgTVvO737rBls)
 
-**Code Location:** *Implementation pending*
-
-**Status:** This case study is planned for the book but the code implementation is not yet available in this repository. Check back for updates or refer to the book chapter for theoretical details and implementation guidance.
-
-**Expected Features:**
-- Draft model implementation
-- Speculative decoding pipeline
-- Performance benchmarking
-- Speed vs accuracy trade-offs
-
 ---
 
 ### Case Study 16: Voice Bot - Need for Speed
@@ -671,17 +661,6 @@ python twilio_app.py
 
 **Colab Notebook:**
 - Matryoshka embeddings: [Google Colab](https://colab.research.google.com/drive/1N9ROhCmrOTnXMkpIc9SukVeSwFr5Xxkx#scrollTo=UbG2yyJxv_JW)
-
-**Code Location:** [`finetuning/embeddings/`](finetuning/embeddings/)
-
-**Status:** The directory exists but implementation is not yet available. This case study is planned for the book. Check back for updates or refer to the book chapter for implementation details.
-
-**Expected Features:**
-- Matryoshka embedding training
-- Multi-dimensional embedding support
-- Dynamic dimension selection
-- Performance benchmarking
-- Speed vs accuracy optimization
 
 ---
 
