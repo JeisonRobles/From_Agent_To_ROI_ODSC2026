@@ -281,6 +281,8 @@ jupyter notebook react_agent_sql.ipynb
 
 **Code Location:** [`policy_bot/`](policy_bot/)
 
+A standalone rubric notebook for reference: [notebooks/structured_grader_evaluation.ipynb]
+
 **Setup:**
 ```bash
 cd policy_bot

@@ -74,4 +74,5 @@ node_modules/
 **/image_chromadb/
 
 # Dataset directories
+structured_grader_evaluation_results.json
 reasoning_llms/computer_use/uipad_dataset/
